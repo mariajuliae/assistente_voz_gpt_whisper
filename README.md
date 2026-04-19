@@ -46,11 +46,11 @@ Reproduz a resposta sintetizada diretamente no Colab.
 
 ## 📂 Estrutura do Projeto
 
-├── gravação_audio.py       # Código para captura de áudio
-├── reconhecimento_whisper.py # Transcrição com Whisper
-├── integração_chatgpt.py   # Comunicação com API OpenAI
-├── síntese_resposta.py     # Conversão de texto em voz com gTTS
-└── README.md               # Documentação do projeto
+├── gravação_audio.py  
+├── reconhecimento_whisper.py  
+├── integração_chatgpt.py  
+├── síntese_resposta.py  
+└── README.md  
 
 ----
 
