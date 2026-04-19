@@ -56,12 +56,12 @@ Reproduz a resposta sintetizada diretamente no Colab.
 
 ## 🔧 Instalação
 - Clone este repositório:  
-git clone https://github.com/mariajuliae/assistente_voz_gpt_whisper
+git clone https://github.com/mariajuliae/assistente_voz_gpt_whisper  
 cd assistente_voz_gpt_whisper
 
 - Instale as dependências:  
-pip install git+https://github.com/openai/whisper.git
-pip install openai
+pip install git+https://github.com/openai/whisper.git  
+pip install openai  
 y pip install gTTS
 
 ----
